@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Emmanuel Gany Madut
+# 👋 Hi, I'm Emmanuel Gany 
 
 💻 Aspiring Software Engineer | 🌍 Future Tech Entrepreneur
 
