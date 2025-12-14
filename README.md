@@ -98,6 +98,5 @@ A responsive website project focused on layout, styling, and clean UI design.
 
 ---
 
-![Profile Views](https://visitcount.itsvg.in/api?id=kenya77&icon=0&color=0)
 
 <!-- Clean, general, and professional developer profile -->
