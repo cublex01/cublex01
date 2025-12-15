@@ -33,7 +33,7 @@ Beginner-friendly and open-source projects, especially in **web development** an
 Technology, learning to code, or my goal of starting my **own software company** one day.
 
 ⚡ **Fun fact:**  
-I love **football ⚽ and running 🏃‍♂️** — staying active keeps me focused while coding.
+I love **football ⚽ and running 🏃‍♂️** staying active keeps me focused while coding.
 
 ---
 
